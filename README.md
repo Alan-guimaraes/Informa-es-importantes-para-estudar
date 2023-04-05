@@ -1,5 +1,5 @@
 #Loops - Repetição
-#For - while - do while
+For - while - do while
 
 
 ***** Utilizando While
